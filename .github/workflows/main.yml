@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Testing
-      uses: rdp-studio/ssh2actions@main
+      uses: mxschmitt/action-tmate@v1
